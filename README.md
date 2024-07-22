@@ -1,12 +1,12 @@
 ## Mihir Mishra
 Badarpur, New Delhi, Delhi, India  
 Email: mihirmishra892@gmail.com  
-Linkedin: [Mihir Mishra]<https://www.linkedin.com/in/mihir-mishra-15335a222/>
+Linkedin: [Mihir Mishra](https://www.linkedin.com/in/mihir-mishra-15335a222/)
 
 ## EDUCATION
 
-- Bachelor in Technology  (july 2020 - june 2024    
-  Computer science and Engineering (9.1 CGPA)  
+- **Bachelor in Technology**  _(july 2020 - june 2024_    
+  Computer Science and Engineering (9.1 CGPA)  
   Delhi Technical Campus, Greater Noida, UP  
 
 
