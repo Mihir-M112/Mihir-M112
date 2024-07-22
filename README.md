@@ -1,5 +1,7 @@
 ## Mihir Mishra
 Badarpur, New Delhi, Delhi, India
+Email: mihirmishra892@gmail.com
+Linkedin: Mihir Mishra[https://www.linkedin.com/in/mihir-mishra-15335a222/]
 
 ## EDUCATION
 
